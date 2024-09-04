@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NLP and LLM models**
 
-- 📫 How to reach me **behradsadeghi77@gmail.com**
+- 📫 How to reach me: **behradsadeghi77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
