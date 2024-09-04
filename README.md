@@ -27,4 +27,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behradsadeghi&" alt="behradsadeghi" /></p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=behradsadeghi&theme=highcontrast&hide_border=true&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" /></a>
