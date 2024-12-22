@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Computer Vision projects**
 
-- 🌱 I’m currently learning **NLP and LLM models**
+- 🌱 I’m currently learning **GNNs**
 
 - 📫 How to reach me: **behradsadeghi77@gmail.com**
 
